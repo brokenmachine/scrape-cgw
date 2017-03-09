@@ -1,0 +1,12 @@
+{
+  "name"         : "cgw-scrape",
+  "version"      : "0.0.1",
+  "description"  : "Create migration files frow CGW into drupal",
+  "main"         : "app.js",
+  "author"       : "Duane Taylor",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
